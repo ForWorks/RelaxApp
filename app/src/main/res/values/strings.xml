@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Online</string>
+    <string name="home">Home</string>
+    <string name="music">Music</string>
+    <string name="profile">Profile</string>
+    <string name="greeting">Greeting, </string>
+    <string name="advice_1_description">When you feel bad, listen to nature. The silence of the world calms better than millions of unnecessary words.</string>
+    <string name="advice_2_description">A truly gentle person wouldn’t pick fights nor would have fights picked with him.</string>
+    <string name="advice_3_description">You know, you\'re much too tense. You\'re a young man. You need to relax. Learn to take some joy in your work.</string>
+    <string name="advice_4_description">Don\'t carry in your head the mind-blowing burden of hundreds of things that you will do in the future, focus on one thing that you can do now.</string>
+    <string name="advice_5_description">If your consciousness is focused on something with great intensity, it will find expression in your life and in the world around you.</string>
+    <string name="advice_6_description">It turns out that it\'s very exciting to show someone your creation and wait for a response.</string>
+    <string name="advice_1_text">A person with a huge reserve of patience and tolerance goes through life with a special degree of calm and tranquility. Such a person is not only happy and emotionally balanced, but he is also stronger in health and less susceptible to diseases. He has a strong will, a good appetite, and it\'s easier for him to fall asleep, because his conscience is clear.</string>
+    <string name="advice_2_text">To be happy, a person needs confidence in the future, and to be in love, you just need uncertainty. Happiness is based on calmness, whereas love needs doubts and anxieties.</string>
+    <string name="advice_3_text">The path to success lies through relaxation — even if it sounds like a paradox. It is possible to increase efficiency by exerting all your forces only up to a certain limit. All the successes that I am most proud of were achieved in a state of calm and ease, when everything worked out by itself and I worked much more efficiently than my usual level.</string>
+    <string name="advice_4_text">Dreams will come true only when you put all your thoughts together. And most importantly, at all levels of the subconscious, program: "I will succeed, not immediately, but I will achieve everything I need from life." After all, having learned to manage your subconscious, you can achieve a lot. And so, you work at least seven jobs, in the end you will fail.</string>
+    <string name="advice_5_text">Most modern people are arranged like this: if I ask you to get ready, you will tense up, and if I ask you to relax, you will become sluggish. When you are very tense or very relaxed, your ability to perceive is greatly reduced. After all, if you are very tense, you do not see anything even in front of you, also when you are completely relaxed. But being collected and relaxed is the goal.</string>
+    <string name="advice_6_text">After a period of happiness, joyful excitement and a sense of fullness of life, the perception of what has been achieved will inevitably come as a matter of course and anxiety, dissatisfaction and a desire for more will arise.</string>
+    <string name="failed">Failed</string>
+    <string name="below_the_norm">The indicator is below the norm</string>
+    <string name="normal">Your indicators are normal</string>
+    <string name="overweight">Are you overweight</string>
+    <string name="obesity_1">You have obesity of the 1st degree</string>
+    <string name="obesity_2">You have obesity of the 2st degree</string>
+    <string name="obesity_3">You have obesity of the 3st degree</string>
+</resources>
